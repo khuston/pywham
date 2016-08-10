@@ -1,6 +1,9 @@
 """ WHAM equation solver using BFGS algorithm as described by Zhu and Hummer:
 
-    Zhu, F., & Hummer, G. (2012). Convergence and error estimation in free energy calculations using the weighted histogram analysis method. Journal of Computational Chemistry, 33(4), 453-465. http://doi.org/10.1002/jcc.21989
+    Zhu, F., & Hummer, G. (2012). Convergence and error estimation in free
+    energy calculations using the weighted histogram analysis method. Journal
+    of Computational Chemistry, 33(4), 453-465.
+    http://doi.org/10.1002/jcc.21989
 
 This code also closely follows the notation of Zhu and Hummer (2012).
 """
